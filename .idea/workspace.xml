@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b837f8d9-010d-40ff-b901-3d8a0cc9bc89" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Cargo__nickel_demo_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Rust__nickel_demo_.xml" />
-    </list>
+    <list default="true" id="b837f8d9-010d-40ff-b901-3d8a0cc9bc89" name="Default" comment="" />
     <ignored path="nickel-demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
