@@ -1,0 +1,3 @@
+curl -k -H "Content-Type: application/json" -X POST -d '{"name":"john","pass":"pass"}'  https://myd-vm25016.hpeswlab.net/post/request
+Hello john pass
+

@@ -5,3 +5,6 @@ authors = ["seb@ukr.net"]
 
 [dependencies]
 nickel = "*"
+rustc-serialize = "*"
+
+
